@@ -1,0 +1,9 @@
+{
+    "name": "play-the-biters",
+    "version": "0.0.1",
+    "title": "Play The Biters",
+    "author": "Kamereon",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "This mod enables you to play as the biters against the other players !"
+}
