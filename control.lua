@@ -1,5 +1,6 @@
 local core = require("core")
 require("play_mode_selection")
+require("biter_mode")
 
 script.on_init(function()
 
